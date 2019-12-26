@@ -1,0 +1,22 @@
+# Font style metadata
+name = "custom"
+
+# Optional Google font URL
+google_fonts = "Montserrat:400,700|Open+Sans|Raleway|Titillium+Web"
+
+#"Montserrat:400,700|Open+Sans|Titillium+Web"
+
+#
+
+# Font families
+heading_font = "Montserrat"
+nav_font = "Raleway"
+body_font = "Open Sans"
+mono_font = "Titillium Web"
+
+# Font size
+font_size = "20"
+font_size_small = "16"
+# Font size affects #botbar1 placement
+# in Safari
+

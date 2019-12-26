@@ -1,0 +1,81 @@
+.contact-widget .fa-li {
+  top: 0.0em;
+
+  /* Default FA value. */
+}
+
+.see-all {
+  margin-top: 0.0rem;
+  margin: 0 0 0 2px;
+}
+
+.comment {
+  font-family: 'Raleway', sans-serif;
+  color: #AAAAAA;
+  font-size: .9rem;
+}
+
+#person-email, .style-email {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.style-widget-title {
+  color: #DADADA;
+}
+
+.portrait-title h3 {
+  font-family: 'Titillium Web', sans-serif;
+  margin: 0 0 0px;
+}
+
+.big-icon {
+  font-size: 1.6rem;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* FOOTER  */
+
+footer {
+  /* margin: 4rem 0 0;
+  padding: 2rem 0; */
+  width: 100%;
+  position: absolute;
+  padding: 0px 0;
+  margin: 0px 0;
+  left: 0;
+  right: 0;
+
+  p {
+    /* font-size: 0.75rem; */
+    text-align: justify-all;
+  }
+}
+
+@media screen and (min-width: 64em) {
+  .article-container {
+    max-width: 64em;
+  }
+}
+
+@media screen and (min-width: 85.375em) {
+  .article-container {
+    max-width: 85.375em;
+  }
+}
+
+@media screen and (min-width: 120em) {
+  .article-container {
+    max-width: 120em;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+}
+
+@media screen and (min-width: 160em) {
+  .article-container {
+    max-width: 160em;
+  }
+}
