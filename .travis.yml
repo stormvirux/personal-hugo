@@ -1,7 +1,7 @@
 language: python
 
 git:
-  submodules: false
+  submodules: true
 
 install:
     - wget https://github.com/gohugoio/hugo/releases/download/v0.62.0/hugo_extended_0.62.0_Linux-64bit.deb
