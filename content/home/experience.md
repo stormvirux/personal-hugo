@@ -18,27 +18,38 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Assistant"
+  company = "Aalto University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Espoo, Finland"
+  date_start = "2019-02-04"
   date_end = ""
   description = """
   Responsibilities include:
-  
+
   * Analysing
   * Modelling
   * Deploying
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Assistant"
+  company = "KAU HPC Centre"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Jeddah, KSA"
+  date_start = "2017-01-01"
+  date_end = "2018-12-31"
+  description = """
+   Responsibilities include:
+
+  * Developed a framework to improve the Quality of Service (QoS) of
+networked healthcare services based on edge-computing paradigms, using
+Deep Learning and soft computing techniques.
+ * Created fault-tolerant routing algorithms for IoT and Wireless Sensor
+Networks to enable reliable and resilient smart city applications.
+ * Developed a tool named SURAA to enable load-balanced execution of
+sparse matrix-vector product on GPUs with the help of CUDA Dynamic
+Parallelism.
+"""
 
 +++
