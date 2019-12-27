@@ -51,5 +51,4 @@ Networks to enable reliable and resilient smart city applications.
 sparse matrix-vector product on GPUs with the help of CUDA Dynamic
 Parallelism.
 """
-
 +++
