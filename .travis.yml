@@ -9,7 +9,7 @@ install:
     - pip install Pygments
 
 script:
-    - hugo
+    - hugo --minify
 
 deploy:
   provider: pages
