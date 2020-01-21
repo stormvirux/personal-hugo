@@ -1,5 +1,5 @@
 ---
-title: "Distributed Inference Acceleration with Adaptive {DNN} Partitioning and
+title: "Distributed Inference Acceleration with Adaptive DNN Partitioning and
 Offloading"
 date: 2020-04-27
 publishDate: 2020-01-17T13:51:35.852572Z
